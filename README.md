@@ -17,3 +17,4 @@ Para correrlos con el código es necesario moverlos hacia adentro de la carpeta 
 El repositorio original de este modelo (incluyendo las instrucciones para usarlo), se encuentra en esta dirección: 
 https://github.com/boschresearch/one-shot-synthesis
 
+Recomiendo bajarse el código directamente del repositorio original. Luego mover los datasets adentro de la carpeta "datasets" y correrlo utilizando los comandos que se especifican en los archivos de la carpeta "Archivos para correr modelo en Cluster UY"
