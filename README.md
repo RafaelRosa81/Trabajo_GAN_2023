@@ -2,7 +2,7 @@ En este repositorio están todos los archivos para ejecutar el código.
 
 El informe del trabajo del curso se encuentra dentro de la carpeta "informe"
 
-Los archivos para ejecutar el código utilizando los datasets que se utilizaron en el trabajo, están en la carpeta "archivos para correr modelo en el cluster"
+Los archivos para ejecutar el código utilizando los datasets que se utilizaron en el trabajo, están en la carpeta "Archivos para correr modelo en Cluster UY"
 
 
 
